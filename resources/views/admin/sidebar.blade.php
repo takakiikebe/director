@@ -27,7 +27,7 @@
                     <a href="http://artist-link.com/admin/posts?search=soft rock">
                         Soft_Rock
                     </a>            
-                    <a href="http://artist-kink.com/admin/posts?search=pops">
+                    <a href="http://artist-link.com/admin/posts?search=pops">
                         Pops
                     </a>            
                     <a href="http://artist-link.com/admin/posts?search=rb">
