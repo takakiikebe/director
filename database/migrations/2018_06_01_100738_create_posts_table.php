@@ -17,12 +17,12 @@ class CreatePostsTable extends Migration
             $table->increments('id');
             $table->timestamps();
             $table->string('title')->nullable();
-            $table->int('release')->nullable();
+            $table->integer('release')->nullable();
             $table->text('content')->nullable();
             $table->string('genre')->nullable();
             $table->string('url1')->nullable();
             $table->string('url2')->nullable();
-            $table->int('category_id')->nullable();
+            $table->integer('category_id')->nullable();
             });
     }
 
