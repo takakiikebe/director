@@ -21,40 +21,40 @@
                    ------------------------
                 <li role="presentation">
                     [ Genre ]
-                    <a href="http://100-mai.com/admin/posts?search=hard rock">
+                    <a href="http://artist-link.com/admin/posts?search=hard rock">
                         Hard_Rock
                     </a>            
-                    <a href="http://100-mai.com/admin/posts?search=soft rock">
+                    <a href="http://artist-link.com/admin/posts?search=soft rock">
                         Soft_Rock
                     </a>            
-                    <a href="http://100-mai.com/admin/posts?search=pops">
+                    <a href="http://artist-kink.com/admin/posts?search=pops">
                         Pops
                     </a>            
-                    <a href="http://100-mai.com/admin/posts?search=rb">
+                    <a href="http://artist-link.com/admin/posts?search=rb">
                         R&B
                     </a>            
-                    <a href="http://100-mai.com/admin/posts?search=danceable">
+                    <a href="http://artist-link.com/admin/posts?search=danceable">
                         Danceable
                     </a>            
-                    <a href="http://100-mai.com/admin/posts?search=jazz">
+                    <a href="http://artist-link.com/admin/posts?search=jazz">
                         Jazz
                     </a>            
-                    <a href="http://100-mai.com/admin/posts?search=new age">
+                    <a href="http://artist-link.com/admin/posts?search=new age">
                         New_Age
                     </a> 
-                    <a href="http://100-mai.com/admin/posts?search=kayokyoku">
+                    <a href="http://artist-link.com/admin/posts?search=kayokyoku">
                         KayoKyoku
                     </a>            
-                    <a href="http://100-mai.com/admin/posts?search=folk">
+                    <a href="http://artist-link.com/admin/posts?search=folk">
                         Folk
                     </a>
-                    <a href="http://100-mai.com/admin/posts?search=new music">
+                    <a href="http://artist-link.com/admin/posts?search=new music">
                         New_Music
                     </a>            
-                    <a href="http://100-mai.com/admin/posts?search=jpop">
+                    <a href="http://artist-link.com/admin/posts?search=jpop">
                         JPOP
                     </a> 
-                    <a href="http://100-mai.com/admin/posts?search=music">
+                    <a href="http://artist-link.com/admin/posts?search=music">
                         Other Music
                     </a>            
                 </li>
