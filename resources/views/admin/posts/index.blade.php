@@ -40,7 +40,7 @@
                                         <td>{{ $item->title }}</td><td>{{ $item->genre }}</td>
                                         <td>
                                             <a href="{{ $item->url1 }}" title="100"><button class="btn btn-info btn-sm"> 100</button></a>
-                                            <a href="{{ $item->url2 }}" title="facebook"><button class="btn btn-primary btn-sm"> facebook</button></a>
+                                            <a href="{{ $item->url2 }}" title="spotify"><button class="btn btn-primary btn-sm"> Spotify</button></a>
                                         </td>
                                     </tr>
                                 @endforeach
