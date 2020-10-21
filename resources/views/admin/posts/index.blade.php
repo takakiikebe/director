@@ -41,7 +41,8 @@
                                         <td>
                                             <a href="{{ $item->url1 }}" title="100"><button class="btn btn-info btn-sm"> 100</button></a>
                                             <a href="{{ $item->url2 }}" title="spotify"><button class="btn btn-success btn-sm"> Spotify</button></a>
-                                        </td>
+                                            <a href="{{ $item->url3 }}" title="spotify"><button class="btn btn-danger btn-sm"> Album</button></a>
+                                       </td>
                                     </tr>
                                 @endforeach
                                 </tbody>
