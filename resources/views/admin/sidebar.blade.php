@@ -8,14 +8,14 @@
             <ul class="nav" role="tablist">
                 <li role="presentation">
                     [ Listing ]
-                    <a href="http://100-mai.com/admin/posts?search=洋楽">
-                        洋楽名盤発掘100
+                    <a href="http://www.artist-link.com/admin/posts?search=洋楽">
+                        洋楽
                     </a>            
-                    <a href="http://100-mai.com/admin/posts?search=何となくジャズ">
-                        何となくジャズ100
+                    <a href="http://100-mai.com/admin/posts?search=インスト">
+                        ジャズ等
                     </a>            
-                    <a href="http://100-mai.com/admin/posts?search=邦楽">
-                        邦楽名盤発掘100
+                    <a href="http://100-mai.com/admin/posts?search=日本">
+                        日本
                     </a>            
                 </li>
                    ------------------------
