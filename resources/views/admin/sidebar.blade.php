@@ -7,16 +7,15 @@
         <div class="card-body">
             <ul class="nav" role="tablist">
                 <li role="presentation">
-                    [ Listing ]
                     <a href="http://www.artist-link.com/admin/posts?search=洋楽">
                         洋楽
-                    </a>            
+                    </a>
                     <a href="http://100-mai.com/admin/posts?search=インスト">
                         ジャズ等
-                    </a>            
+                    </a>
                     <a href="http://100-mai.com/admin/posts?search=日本">
                         日本
-                    </a>            
+                    </a>
                 </li>
                    ------------------------
                 <li role="presentation">
