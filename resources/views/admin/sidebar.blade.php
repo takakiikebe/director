@@ -10,10 +10,10 @@
                     <a href="http://www.artist-link.com/admin/posts?search=洋楽">
                         洋楽
                     </a>
-                    <a href="http://100-mai.com/admin/posts?search=インスト">
+                    <a href="http://www.artist-link.com/admin/posts?search=インスト">
                         ジャズ等
                     </a>
-                    <a href="http://100-mai.com/admin/posts?search=日本">
+                    <a href="http://www.artist-link.com/admin/posts?search=日本">
                         日本
                     </a>
                 </li>
@@ -70,17 +70,6 @@
                     </a>                        
                 </li>
             </ul>         
-            <ul class="nav" role="tablist">         
-                <li role="presentation">
-                    <a href="http://cinema-list.com/">
-                        Cinema
-                    </a>
-                        //   
-                    <a href="http://eiga-list.com/">
-                        Eiga
-                    </a>                        
-                </li>
-            </ul>
         </div>
     </div>
 </div>
