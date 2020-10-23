@@ -7,6 +7,7 @@
         <div class="card-body">
             <ul class="nav" role="tablist">
                 <li role="presentation">
+                [ Listing ]
                     <a href="http://www.artist-link.com/admin/posts?search=洋楽">
                         洋楽
                     </a>
